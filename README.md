@@ -2,7 +2,7 @@ relationships
 ---
 redis backed user relationships on its simplest form.
 
-####installation
+#### installation
 
 ```bash
 $ [sudo] pip install relationships
@@ -12,7 +12,7 @@ or if you like 90s:
 $ [sudo] easy_install relationships
 ```
 
-####usage
+#### usage
 
 **getting the Relationship class**
 
